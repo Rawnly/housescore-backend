@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5ff9f95-370d-4f19-9720-08b24d972e8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1i5dt9mNQ5tnSMmp6i6GlRppRcG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build housescore" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="housescore" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="housescore" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build housescore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="365" key="#Go_Modules" timestamp="1601203244082">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="640" y="365" key="#Go_Modules/0.0.1680.1050@0.0.1680.1050" timestamp="1601203244082" />
+    <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601215053804">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601215053804" />
+    <state x="423" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1601218163903">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="423" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1601218163903" />
+    <state x="423" y="147" key="#com.intellij.ide.util.MemberChooser/0.23.1680.961@0.23.1680.961" timestamp="1601217774902" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1601215309652">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601215309652" />
+    <state width="1168" height="295" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1601204806330" />
+    <state width="1168" height="295" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1601205397496" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1601215309651">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601215309651" />
+    <state width="1168" height="295" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1601204806329" />
+    <state width="1168" height="295" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1601205397495" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1601215309650">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601215309650" />
+    <state width="1168" height="295" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1601204806328" />
+    <state width="1168" height="295" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1601205397494" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1601215309652">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601215309652" />
+    <state width="1168" height="295" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1601204806329" />
+    <state width="1168" height="295" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1601205397495" />
+    <state width="256" height="457" key="HiddenNamespacesPopup" timestamp="1601215068535">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="256" height="457" key="HiddenNamespacesPopup/0.0.1680.1050@0.0.1680.1050" timestamp="1601215068535" />
+    <state x="743" y="409" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1601215091567">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="743" y="409" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1680.1050@0.0.1680.1050" timestamp="1601215091567" />
+    <state x="742" y="419" width="359" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1601218494746">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="742" y="419" width="359" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1680.1050@0.0.1680.1050" timestamp="1601218494746" />
+    <state x="698" y="235" width="786" height="545" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601215365559">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="698" y="235" width="786" height="545" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1601215365559" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1601218396818">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1601218396818" />
+  </component>
+</project>
