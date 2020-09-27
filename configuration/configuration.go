@@ -66,7 +66,7 @@ func Default() {
 
 	// Database Configuration
 	Config.Database.User = "root"
-	Config.Database.Password = "root"
+	Config.Database.Password = "toor"
 	Config.Database.Host = "localhost"
 	Config.Database.Port = "3306"
 	Config.Database.Name = "housescore"

@@ -904,5 +904,80 @@ SELECT|sys.sys_config:null
       <ObjectGrants>SELECT,INSERT,UPDATE,DELETE,CREATE,DROP,RELOAD,SHUTDOWN,PROCESS,FILE,REFERENCES,INDEX,ALTER,SHOW DATABASES,SUPER,CREATE TEMPORARY TABLES,LOCK TABLES,EXECUTE,REPLICATION SLAVE,REPLICATION CLIENT,CREATE VIEW,SHOW VIEW,CREATE ROUTINE,ALTER ROUTINE,CREATE USER,EVENT,TRIGGER,CREATE TABLESPACE,CREATE ROLE,DROP ROLE!
 </ObjectGrants>
     </user>
+    <table id="283" parent="2" name="users"/>
+    <column id="284" parent="283" name="id">
+      <Position>1</Position>
+      <DataType>bigint unsigned|0s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>null</SequenceIdentity>
+    </column>
+    <column id="285" parent="283" name="created_at">
+      <Position>2</Position>
+      <DataType>datetime(3)|0s</DataType>
+    </column>
+    <column id="286" parent="283" name="updated_at">
+      <Position>3</Position>
+      <DataType>datetime(3)|0s</DataType>
+    </column>
+    <column id="287" parent="283" name="deleted_at">
+      <Position>4</Position>
+      <DataType>datetime(3)|0s</DataType>
+    </column>
+    <column id="288" parent="283" name="first_name">
+      <Position>5</Position>
+      <DataType>longtext|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="289" parent="283" name="last_name">
+      <Position>6</Position>
+      <DataType>longtext|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="290" parent="283" name="email">
+      <Position>7</Position>
+      <DataType>varchar(191)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="291" parent="283" name="password">
+      <Position>8</Position>
+      <DataType>longtext|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="292" parent="283" name="status">
+      <Position>9</Position>
+      <DataType>tinyint(1)|0s</DataType>
+      <DefaultExpression>0</DefaultExpression>
+    </column>
+    <column id="293" parent="283" name="phone">
+      <Position>10</Position>
+      <DataType>varchar(191)|0s</DataType>
+    </column>
+    <index id="294" parent="283" name="email">
+      <ColNames>email</ColNames>
+      <Unique>1</Unique>
+      <Type>btree</Type>
+    </index>
+    <index id="295" parent="283" name="phone">
+      <ColNames>phone</ColNames>
+      <Unique>1</Unique>
+      <Type>btree</Type>
+    </index>
+    <index id="296" parent="283" name="idx_users_deleted_at">
+      <ColNames>deleted_at</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="297" parent="283" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <key id="298" parent="283" name="email">
+      <ColNames>email</ColNames>
+      <UnderlyingIndexName>email</UnderlyingIndexName>
+    </key>
+    <key id="299" parent="283" name="phone">
+      <ColNames>phone</ColNames>
+      <UnderlyingIndexName>phone</UnderlyingIndexName>
+    </key>
   </database-model>
 </dataSource>
